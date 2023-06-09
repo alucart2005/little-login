@@ -173,6 +173,15 @@ section .box .container .form .inputBox input[type=submit]:hover {
   background: #5208e5;
   color: #fff;
 }
+section .box .container .form .forget {
+  margin-top: 5px;
+  color: #fff;
+  padding: 2px;
+}
+section .box .container .form .forget a {
+  color: #fff;
+  font-weight: 600;
+}
 
 @keyframes animate {
   0%, 100% {
